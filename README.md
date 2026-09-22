@@ -1,7 +1,7 @@
 
 # lab3package
 
-<!-- badges: start -->
+<!-- badges: start -->[![R-CMD-check.yaml](https://github.com/hanupavan065/lab3package/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/hanupavan065/lab3package/actions/workflows/R-CMD-check.yaml)
 [![R-CMD-check](https://github.com/hanupavan065/lab3package/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/hanupavan065/lab3package/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
